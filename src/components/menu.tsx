@@ -9,6 +9,9 @@ export default function Menu() {
       <li>
         <Link href="/imc">IMC</Link>
       </li>
+      <li>
+        <Link href="/courses">Courses</Link>
+      </li>
     </ul>
   );
 }
